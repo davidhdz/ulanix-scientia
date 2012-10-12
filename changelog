@@ -1,0 +1,8 @@
+ulanix-scientia (1.0.2ubuntu1) precise; urgency=low
+
+  * precise build
+  * removed hugin
+  * added xournal
+
+
+ -- David Hernández <david.vzla@gmail.com>  Thu, 26 Apr 2012 22:05:46 -0430

@@ -1,0 +1,16 @@
+Source: ulanix-scientia
+Section: misc
+Priority: optional
+Maintainer: David Hernandez <david.vzla@gmail.com>
+Homepage: http://nux.ula.ve/
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+
+Package: ulanix-scientia
+Architecture: any
+Depends: ${misc:Depends},octave, maxima, wxmaxima, gnuplot, gimp, scribus,
+         libreoffice, qucs, gthumb, blender, xournal, inkscape, ufraw, pidgin, 
+         geany, lyx, dia, umbrello, planner, r-base, openjdk-7-jre
+Description: Metapaquete para la instalación del sistema ulanix scientia
+ Este paquete es el escritorio ulanix en su sabor scientia, dirigido a 
+ estudiantes de ciencia e ingeniería.
