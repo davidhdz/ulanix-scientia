@@ -1,7 +1,7 @@
 ULAnix-Scientia
 ===============
 
-Metapaquete para la instalación del sistema ulanix scientia en Ubuntu Precise
+Metapaquete para la instalación del sistema ulanix scientia en Ubuntu Raring Ringtail 13.04
 
 Este paquete recoge las aplicaciones traídas por ULAnix en su sabor Scientia, dirigido a 
 estudiantes de ciencia e ingeniería.
