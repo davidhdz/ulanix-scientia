@@ -3,7 +3,10 @@
 
 #export DH_VERBOSE=1
 
-build:
+build: build-arch build-indep
+build-arch: build-stamp
+build-indep: build-stamp
+build-stamp:
 
 clean:
 	dh_testdir
@@ -29,6 +32,8 @@ binary-arch: install
 	dh_gencontrol
 	dh_md5sums
 	dh_builddeb
+
+
 
 binary: binary-indep binary-arch
 .PHONY: build clean binary-indep binary-arch binary install

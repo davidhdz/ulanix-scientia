@@ -1,0 +1,15 @@
+ulanix-scientia (1.0.4) raring; urgency=low
+
+  * Raring release
+  * Added xournal, freemind and texlive complementary packages
+  * Removed gthumb and pidgin
+
+ -- David Hernández <david.vzla@gmail.com>  Mon, 19 Aug 2013 22:11:15 -0430
+
+ulanix-scientia (1.0.3) quantal; urgency=low
+
+  * Quantal release.
+  * Added freeplane, idle, texmaker, texlive, ulanix-scientia-docs.
+  * Removed Qucs, still no version for Quantal.
+
+ -- David Hernández <david.vzla@gmail.com>  Sun, 11 Nov 2012 02:06:39 -0430

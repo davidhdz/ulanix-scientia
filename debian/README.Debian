@@ -8,7 +8,7 @@ packages do depend on are actually installed.
 The special dependencies used in this package are:
 
 Depends: ${misc:Depends},octave, maxima, wxmaxima, gnuplot, gimp, scribus,
-         libreoffice, qucs, gthumb, blender, xournal, inkscape, ufraw, pidgin, 
+         libreoffice, qucs, gthumb, blender, hugin, inkscape, ufraw, pidgin, 
          geany, lyx, dia, umbrello, planner, r-base, openjdk-7-jre
 
 
