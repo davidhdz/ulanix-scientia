@@ -3,12 +3,12 @@ Section: misc
 Priority: optional
 Maintainer: David Hernandez <david.vzla@gmail.com>
 Homepage: http://nux.ula.ve/
-Build-Depends: debhelper (>= 8)
+Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.4
 
 Package: ulanix-scientia
-Architecture: any
-Depends: ${misc:Depends},octave, maxima, wxmaxima, gnuplot, gimp, scribus,
+Architecture: all
+Depends: ${misc:Depends}, octave, maxima, wxmaxima, gnuplot, gimp, scribus,
          libreoffice, blender, xournal, inkscape, geany, lyx, dia, umbrello, 
          planner, r-base, openjdk-7-jre, freeplane, freemind, idle, texmaker, 
          texlive, texlive-bibtex-extra, texlive-extra-utils, texlive-font-utils,
