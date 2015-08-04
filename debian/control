@@ -1,20 +1,20 @@
 Source: ulanix-scientia
 Section: misc
 Priority: optional
-Maintainer: David Hernandez <david.vzla@gmail.com>
+Maintainer: David Hernández <david.vzla@gmail.com>
 Homepage: http://nux.ula.ve/
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 
 Package: ulanix-scientia
 Architecture: all
 Depends: ${misc:Depends}, octave, maxima, wxmaxima, gnuplot, gimp, scribus,
-         libreoffice, blender, xournal, inkscape, geany, lyx, dia, umbrello, 
-         planner, r-base, openjdk-7-jre, freeplane, freemind, idle, texmaker, 
-         texlive, texlive-bibtex-extra, texlive-extra-utils, texlive-font-utils,
-         texlive-generic-extra, texlive-generic-recommended, texlive-lang-spanish,
-         texlive-latex-extra, texlive-latex-recommended, texlive-math-extra, 
-         texlive-pictures, texlive-publishers, texlive-science, ulanix-scientia-docs
+ libreoffice, blender, xournal, inkscape, geany, lyx, dia, umbrello,
+ planner, r-base, openjdk-7-jre, freeplane, freemind, idle, texmaker,
+ texlive, texlive-bibtex-extra, texlive-extra-utils, texlive-font-utils,
+ texlive-generic-extra, texlive-generic-recommended, texlive-lang-spanish,
+ texlive-latex-extra, texlive-latex-recommended, texlive-math-extra,
+ texlive-pictures, texlive-publishers, texlive-science, ulanix-scientia-docs
 Description: Metapaquete para la instalación del sistema ulanix scientia
- Este metapaquete contiene los programas del escritorio ulanix en su sabor scientia, 
- dirigido a estudiantes de ciencia e ingeniería.
+ Este metapaquete contiene los programas del escritorio ulanix en su sabor 
+ scientia, dirigido a estudiantes de ciencia e ingeniería.
